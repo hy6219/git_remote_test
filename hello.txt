@@ -1,3 +1,4 @@
 hello git!
 update content!!
 on synGit01
+confirmed on syncGit02
